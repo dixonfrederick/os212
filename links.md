@@ -19,3 +19,6 @@ A pretty handy cheat sheet to work with Vim.
 
 5. [Essential Vim Commands](https://catswhocode.com/vim-commands/)\
 Another cool set of commands for Vim.
+
+5. [FUSE - Filesystems in User Space](https://northstar-www.dartmouth.edu/~richard/WhitePapers/FUSE.html)\
+Quick and complete overview about FUSE with important references you might need.
