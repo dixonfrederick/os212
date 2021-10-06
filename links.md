@@ -25,3 +25,6 @@ Quick and complete overview about FUSE with important references you might need.
 
 7. [How to Use Pointers in C](https://linuxhint.com/use-pointers-c/)\
 Simple guide for pointers in C Language.
+
+8. [Using freed memory](https://owasp.org/www-community/vulnerabilities/Using_freed_memory)\
+Explains about the "Use After Free" vulnerability, with some examples.
