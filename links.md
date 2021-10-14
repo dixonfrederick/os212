@@ -28,3 +28,7 @@ Simple guide for pointers in C Language.
 
 8. [Using freed memory](https://owasp.org/www-community/vulnerabilities/Using_freed_memory)\
 Explains about the "Use After Free" vulnerability, with some examples.
+
+9. [The fork() System Call](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html)\
+Complete explanation of fork() system call and other related methods.
+
