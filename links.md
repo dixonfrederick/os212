@@ -32,3 +32,5 @@ Explains about the "Use After Free" vulnerability, with some examples.
 9. [The fork() System Call](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html)\
 Complete explanation of fork() system call and other related methods.
 
+10. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)\
+Sums up pretty much all the stuff you need to know about synchronization, and more.
