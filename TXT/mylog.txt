@@ -80,3 +80,15 @@ ZCZC W07 05 L16 Assignment #06
 ZCZC W07 30 L17 Assignment #07
 ZCZC W07 10 L18 Assignment #08
 ZCZC W07 10 L19 Assignment #09
+
+ZCZC W08 50 L11 Assignment #01
+ZCZC W08 40 L12 Assignment #02
+ZCZC W08 35 L13 Assignment #03
+ZCZC W08 60 L14 Assignment #04
+ZCZC W08 85 L15 Assignment #05
+ZCZC W08 20 L16 Assignment #06
+ZCZC W08 05 L17 Assignment #07
+ZCZC W08 20 L18 Assignment #08
+ZCZC W08 10 L19 Assignment #09
+ZCZC W08 10 L20 Assignment #10
+
