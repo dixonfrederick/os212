@@ -34,3 +34,6 @@ Complete explanation of fork() system call and other related methods.
 
 10. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)\
 Sums up pretty much all the stuff you need to know about synchronization, and more.
+
+11. [CPU Scheduling Algorithms in Operating Systems](https://www.guru99.com/cpu-scheduling-algorithms.html)\
+Just some stuff about scheduling you might need to know.
