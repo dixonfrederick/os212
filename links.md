@@ -37,3 +37,6 @@ Sums up pretty much all the stuff you need to know about synchronization, and mo
 
 11. [CPU Scheduling Algorithms in Operating Systems](https://www.guru99.com/cpu-scheduling-algorithms.html)\
 Just some stuff about scheduling you might need to know.
+
+12. [Linux From Scratch](https://www.linuxfromscratch.org)\
+Guide to make your own Linux File System from scratch.
